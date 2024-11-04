@@ -4,7 +4,7 @@ Criado por :
     https://github.com/Raelsantana
     https://github.com/ViniciusAlmeidaAndrade
 
-Este Bot foi um exercicio proposto por Yure Faro!!!
+Este Bot foi um exercicio proposto por Yure Faro - https://github.com/yurifarod!!!
 """
 
 import telebot
